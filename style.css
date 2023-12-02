@@ -1,0 +1,49 @@
+body {
+  background-color:black;
+  background-repeat: no-repeat;
+  background-size: cover; /* Adjust as needed */
+}
+.logo{
+  width:100%;
+  height:100%;
+}
+.amazing-text{
+  color:yellow;
+  display:flex;
+  justify-content: center;
+  background-color: green;
+}
+.haker{
+  width: 100%;
+  height: 100%;
+}
+.aws{
+  color:black;
+}
+/* Button styling */
+.button {
+  display:flex;
+  justify-content: center;
+  padding: 10px 20px;
+  text-decoration: none;
+  background-color:black; /* Set your button background color *
+   /* Set your button text color */
+   color: white;
+  border-radius: 5;
+  border: 1px solid green; /* Optional: Add border */
+  transition: background-color 0.3s ease; /* Optional: Add a smooth transition */
+  margin-right: 2px; /* Optional: Add some spacing between buttons */
+}
+.but{
+  display:flex;
+  justify-content: center;
+  padding: 10px 20px;
+  text-decoration: none;
+  background-color:green; /* Set your button background color *
+   /* Set your button text color */
+   color:white;
+  border-radius: 5;
+  border: 1px solid green; /* Optional: Add border */
+  transition: background-color 0.3s ease; /* Optional: Add a smooth transition */
+  margin-right: 2px; /* Optional: Add some spacing between buttons */
+}
